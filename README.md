@@ -1,5 +1,5 @@
 # About the project
-This is a practical study project about architectural patterns in Python. Microservices was built to practice more about this theme
+This is a practical project about clean architecture in Python. Microservices was built to practice more about this theme
 
 # Requirements
 This project needs a list of requirements to work correctly. See below:
